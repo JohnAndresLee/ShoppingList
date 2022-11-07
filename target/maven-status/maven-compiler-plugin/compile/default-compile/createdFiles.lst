@@ -1,0 +1,6 @@
+SL/ShoppingList$MyRecorderWriter.class
+SL/ShoppingList$Map.class
+SL/ShoppingList$Reduce.class
+SL/ShoppingList$IntWritableDecreasingComparator.class
+SL/ShoppingList$MyOutputFormat.class
+SL/ShoppingList.class
